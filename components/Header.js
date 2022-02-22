@@ -10,7 +10,7 @@ import {
 
 function Header() {
   return (
-    <header className="sticky top-0 x-50 grid grid-cols-3
+    <header className=" top-0 x-50 grid grid-cols-3
     bg-white shadow-md p-5 md:px-10">
       {/* Left */}
       <div className="relative flex items-center h-10
